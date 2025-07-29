@@ -1,7 +1,4 @@
-<h1 align="center">Hello 👋, I'm Gokul</h1>
-<h3 align="center">🚀 MERN Stack Developer | 💡 Problem Solver | 🛠️ Lifelong Learner</h3>
 
----
 
 ### 🔥 About Me
 
